@@ -11,7 +11,7 @@ O projeto permite expandir as imagens ao passar o mouse, destacar o título e ai
 
 - 🌐 **HTML5** → Estrutura da galeria  
 - 🎨 **CSS3** → Estilização, animações e responsividade  
-- ⚡ **JavaScript (ES6+)** → Interatividade nos cartões e eventos de clique  
+- ⚡ **JavaScript** → Interatividade nos cartões e eventos de clique  
 
 ---
 
