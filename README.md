@@ -1,6 +1,6 @@
 # 🖼️ Galeria Interativa  
 
-Uma **galeria de imagens animada e responsiva** desenvolvida com **HTML, CSS e JavaScript**.  
+Uma **galeria de imagens animadas e responsivas** desenvolvida com **HTML, CSS e JavaScript**.  
 O projeto permite expandir as imagens ao passar o mouse, destacar o título e ainda exibe uma interação ao clicar nelas.  
 
 ![Preview da Galeria Interativa](./assets/animation.gif)  
